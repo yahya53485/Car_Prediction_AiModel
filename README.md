@@ -24,11 +24,11 @@ This web app takes your car’s details like:
 
 ## 📸 Quick Peek  
 **Home Page:**  
-![Home](<img width="1309" height="613" alt="image" src="https://github.com/user-attachments/assets/07fa6d9c-cfe6-4159-a15d-023ae8e8972c" />
+![Home](img width="1309" height="613" alt="Screenshot 2025-08-11 215839" src="https://github.com/user-attachments/assets/dc3646ae-87ac-4d0d-ae80-619851859330" />
 )  
 
 **Prediction Page:**  
-![Result](<img width="1310" height="618" alt="image" src="https://github.com/user-attachments/assets/680eb811-32ce-4867-89be-a2019b907c81" />
+![Result](<img width="1310" height="618" alt="image" src="" />
 )
 
 ---
@@ -69,7 +69,7 @@ This web app takes your car’s details like:
 ## 💻 Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/Aaru-0653/Car_Prediction_AiModel.git
 cd car-price-prediction
 
 # Install dependencies
