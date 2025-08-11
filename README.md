@@ -27,11 +27,12 @@ This web app takes your car’s details like:
 
 <img width="1309" height="613" alt="Screenshot 2025-08-11 215839" src="https://github.com/user-attachments/assets/2b243919-4221-4fe7-ba9a-f1e2ea79274b" />
 
-![Home](<img width="1309" height="613" alt="Screenshot 2025-08-11 215839" src="https://github.com/Aaru-0653/Car_Prediction_AiModel/blob/main/Screenshot%202025-08-11%20215839.png" /> )  
+
 
 **Prediction Page:**  
-![Result](<img width="1310" height="618" alt="image" src="" />
-)
+
+<img width="1310" height="618" alt="Screenshot 2025-08-11 215740" src="https://github.com/user-attachments/assets/a8529b94-725e-4ee6-9204-585d68e18254" />
+
 
 ---
 
