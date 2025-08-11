@@ -18,16 +18,18 @@ This web app takes your car’s details like:
 - Transmission  
 ...and predicts its **fair market value** 💰 using Machine Learning.
 
-📍 **Live Demo:** [Try it now](https://your-render-link-here)
+📍 **Live Demo:** [Try it now]([https://your-render-link-here](https://car-prediction-aimodel.onrender.com/predict))
 
 ---
 
 ## 📸 Quick Peek  
 **Home Page:**  
-![Home](static/home_preview.png)  
+![Home](<img width="1309" height="613" alt="image" src="https://github.com/user-attachments/assets/07fa6d9c-cfe6-4159-a15d-023ae8e8972c" />
+)  
 
 **Prediction Page:**  
-![Result](static/result_preview.png)
+![Result](<img width="1310" height="618" alt="image" src="https://github.com/user-attachments/assets/680eb811-32ce-4867-89be-a2019b907c81" />
+)
 
 ---
 
@@ -94,6 +96,6 @@ Multiple models & accuracy comparison 📊
 Fancy dashboard UI with charts 📈
 
 💬 Connect with Me
-💌 Email: your.email@example.com
-🌐 GitHub: your-username
+💌 Email: aarupanwar1111@email.com
+🌐 GitHub: Aaru-0653
 
