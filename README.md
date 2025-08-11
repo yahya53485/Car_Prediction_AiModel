@@ -53,7 +53,7 @@ This web app takes your car’s details like:
 ---
 
 ## 📂 Repo Layout
-
+'''bash
 Loan-Prediction-App/
 │
 ├── static/               # CSS, JS, Images
