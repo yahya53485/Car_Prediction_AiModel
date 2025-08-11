@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Car Price Predictor</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>🚗 Car Price Predictor</h1>
+    <form action="/predict" method="POST">
+
+      <input type="text" name="brand" placeholder="Brand (e.g. Hyundai)" required>
+      <input type="text" name="model" placeholder="Model (e.g. i20)" required>
+
+      <input type="number" step="0.1" name="vehicle_age" placeholder="Vehicle Age (in years)" required>
+      <input type="number" step="0.1" name="km_driven" placeholder="Kilometers Driven" required>
+
+      <input type="text" name="seller_type" placeholder="Seller Type (e.g. Individual, Dealer)" required>
+      <input type="text" name="fuel_type" placeholder="Fuel Type (e.g. Petrol, Diesel)" required>
+      <input type="text" name="transmission_type" placeholder="Transmission (e.g. Manual, Automatic)" required>
+
+      <input type="number" step="0.1" name="mileage" placeholder="Mileage (km/l)" required>
+      <input type="number" step="0.1" name="engine" placeholder="Engine Capacity (CC)" required>
+      <input type="number" step="0.1" name="max_power" placeholder="Max Power (BHP)" required>
+
+      <input type="number" step="1" name="seats" placeholder="Seating Capacity" required>
+
+      <button type="submit">🔮 Predict Price</button>
+    </form>
+  </div>
+
+</body>
+</html>

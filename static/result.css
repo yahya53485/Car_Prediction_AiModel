@@ -1,0 +1,66 @@
+/* Background Image */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: url('/static/car1.webp') no-repeat center center fixed;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Glassmorphism Container */
+.container {
+  background: rgba(255, 255, 255, 0.05);  /* default light */
+  border-radius: 20px;
+  backdrop-filter: blur(0px);             /* no blur by default */
+  -webkit-backdrop-filter: blur(0px);
+  box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+  padding: 40px;
+  width: 700px;
+  text-align: center;
+  color: white;
+  transition: all 0.4s ease-in-out;
+}
+
+/* 💥 Activate blur on hover/focus */
+.container:hover,
+.container:focus-within {
+  background: rgba(255, 255, 255, 0.15);
+  backdrop-filter: blur(15px);
+  -webkit-backdrop-filter: blur(15px);
+}
+
+/* Result box text */
+.result-box {
+  background: rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  border-radius: 15px;
+  margin-top: 20px;
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+  backdrop-filter: blur(5px);
+  border: 1px solid rgba(255,255,255,0.3);
+}
+
+/* Back Button */
+.back-btn {
+  display: inline-block;
+  margin-top: 30px;
+  padding: 12px 24px;
+  background-color: #ff4c29;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  text-decoration: none;
+  transition: 0.3s ease;
+  font-weight: bold;
+}
+
+.back-btn:hover {
+  background-color: #ff3412;
+}
