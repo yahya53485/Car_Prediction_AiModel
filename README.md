@@ -54,16 +54,16 @@ This web app takes your car’s details like:
 
 ## 📂 Repo Layout
 
-📦 Car-Price-Prediction
-┣ 📂 static/ # CSS, JS, and assets
-┣ 📂 templates/ # HTML templates
-┣ 📜 app.py # Flask app
-┣ 📜 model_building.py
-┣ 📜 car_model.joblib
-┣ 📜 encoders.joblib
-┣ 📜 scaler.joblib
-┣ 📜 requirements.txt
-┗ 📜 README.md
+Loan-Prediction-App/
+│
+├── static/               # CSS, JS, Images
+├── templates/            # HTML templates
+├── app.py                 # Main Flask app
+├── loan_model.pkl         # Trained ML model
+├── requirements.txt       # Dependencies
+├── README.md              # Project documentation
+└── dataset.csv            # Training dataset
+
 
 
 
