@@ -18,16 +18,21 @@ This web app takes your car’s details like:
 - Transmission  
 ...and predicts its **fair market value** 💰 using Machine Learning.
 
-📍 **Live Demo:** [Try it now](https://your-render-link-here)
+📍 **Live Demo:** [Try it now]([https://your-render-link-here](https://car-prediction-aimodel.onrender.com/predict))
 
 ---
 
 ## 📸 Quick Peek  
 **Home Page:**  
-![Home](static/home_preview.png)  
+
+<img width="1309" height="613" alt="Screenshot 2025-08-11 215839" src="https://github.com/user-attachments/assets/2b243919-4221-4fe7-ba9a-f1e2ea79274b" />
+
+
 
 **Prediction Page:**  
-![Result](static/result_preview.png)
+
+<img width="1310" height="618" alt="Screenshot 2025-08-11 215740" src="https://github.com/user-attachments/assets/a8529b94-725e-4ee6-9204-585d68e18254" />
+
 
 ---
 
@@ -49,16 +54,16 @@ This web app takes your car’s details like:
 
 ## 📂 Repo Layout
 
-📦 Car-Price-Prediction
-┣ 📂 static/ # CSS, JS, and assets
-┣ 📂 templates/ # HTML templates
-┣ 📜 app.py # Flask app
-┣ 📜 model_building.py
-┣ 📜 car_model.joblib
-┣ 📜 encoders.joblib
-┣ 📜 scaler.joblib
-┣ 📜 requirements.txt
-┗ 📜 README.md
+car-price-prediction/
+│
+├── static/              # CSS, images
+├── templates/           # HTML templates
+├── model.pkl            # Trained ML model
+├── app.py               # Flask app entry point
+├── requirements.txt     # Dependencies
+└── README.md            # Project documentation
+
+
 
 
 
@@ -67,7 +72,7 @@ This web app takes your car’s details like:
 ## 💻 Run Locally
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/Aaru-0653/Car_Prediction_AiModel.git
 cd car-price-prediction
 
 # Install dependencies
@@ -94,6 +99,6 @@ Multiple models & accuracy comparison 📊
 Fancy dashboard UI with charts 📈
 
 💬 Connect with Me
-💌 Email: your.email@example.com
-🌐 GitHub: your-username
+💌 Email: aarupanwar1111@email.com
+🌐 GitHub: Aaru-0653
 
